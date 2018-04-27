@@ -41,9 +41,9 @@ nano tfrepl.sh
 
 Paste:
 
-```
+```bash
 #!/usr/bin/env bash
-docker run  --privileged --cap-add sys_ptrace -it --rm zachgray/swift-tensorflow-repl
+docker run  --privileged --cap-add sys_ptrace -it --rm zachgray/swift-tensorflow-repl:4.2
 ```
 
 - Press Ctrl + O
