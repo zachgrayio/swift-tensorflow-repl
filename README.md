@@ -57,4 +57,4 @@ Run with `./tfrepl.sh`.
 
 ## License
 
-This project is [MIT Licensed](https://github.com/zachgrayio/swift-tensorflow/blob/master/LICENSE).
+This project is [MIT Licensed](https://github.com/zachgrayio/swift-tensorflow-repl/blob/master/LICENSE).
