@@ -1,11 +1,11 @@
 # swift-tensorflow-repl
 
-Dockerized Swift for TensorFlow REPL based on [swift-tensorflow](https://github.com/zachgrayio/swift-tensorflow). 
+Dockerized [Swift for TensorFlow](https://github.com/tensorflow/swift) REPL based on [swift-tensorflow](https://github.com/zachgrayio/swift-tensorflow). 
 
 
 ## Overview
 
-This image will allow you to easily take Swift for TensorFlow for a test drive without worrying about installing dependencies, changing your path, and interfering with your existing Swift/Xcode config.
+This image will allow you to easily take the official [Swift for TensorFlow](https://github.com/tensorflow/swift) for a test drive without worrying about installing dependencies, changing your path, and interfering with your existing Swift/Xcode config.
 
 ## Run
 
