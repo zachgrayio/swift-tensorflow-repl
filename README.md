@@ -12,7 +12,7 @@ This image will allow you to easily take Swift for TensorFlow for a test drive w
 You can run the Swift for TensorFlow REPL with the single command: 
 
 ```bash
-docker run  --privileged --cap-add sys_ptrace -it --rm zachgrayio/swift-tensorflow-repl
+docker run  --privileged --cap-add sys_ptrace -it --rm zachgrayio/swift-tensorflow-repl:4.2
 ```
 
 and observer the following output:
