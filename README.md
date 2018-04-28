@@ -78,7 +78,7 @@ Run with `./tfrepl.sh`.
 
 ## Advanced Usage
 
-You should make use of the parent image [swift-tensorflow](https://github.com/zachgrayio/swift-tensorflow) and it's deeper documentation for advanced use cases such as:
+You should make use of the parent image [swift-tensorflow](https://github.com/zachgrayio/swift-tensorflow) and its deeper documentation for advanced use cases such as:
 
 * [Compiling executables](https://github.com/zachgrayio/swift-tensorflow#run-the-compiler)
 * [Passing scripts to the interpreter](https://github.com/zachgrayio/swift-tensorflow#run-the-interpreter)
